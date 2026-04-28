@@ -1,0 +1,20 @@
+# Seguimiento de Ejercicios
+
+Tabla de progreso de los módulos y ejercicios.
+
+| Nombre | Ejercicio                  | MDOM  | AOO   | DES   | DAC   | CU    | CU-EXT | CU-INC | MANA  |
+| :----- | :------------------------- | :---: | :---: | :---: | :---: | :---: | :----: | :----: | :---: |
+| Farid  | 1 - AirPatagonia           | - [x] |   -   | - [ ] |   -   | - [ ] |   -    |   -    | - [ ] |
+| Fede   | 2 - UPPA                   | - [x] |   -   |   -   |   -   | - [ ] | - [ ]  | - [ ]  | - [ ] |
+| Elian  | 3 - Cadena hotelera        | - [x] |   -   |   -   |   -   | - [ ] | - [ ]  | - [ ]  |   -   |
+| Haziel | 4 - Partidazo              | - [x] |   -   |   -   |   -   | - [ ] |   -    |   -    |   -   |
+| Leo    | 5 - Vecino Cerca           | - [x] |   -   |   -   |   -   | - [ ] | - [ ]  | - [ ]  | - [ ] |
+| Mati   | 6 - Estaciones de servicio | - [x] |   -   |   -   | - [ ] | - [ ] |   -    |   -    |   -   |
+| Farid  | 7 - BINBIN                 | - [x] |   -   | - [ ] | - [ ] | - [ ] |   -    |   -    |   -   |
+| Elian  | 8 - Recitaluzza 2025       | - [ ] | - [ ] | - [ ] | - [ ] | - [ ] | - [ ]  | - [ ]  |   -   |
+| Haziel | 9 - Sanatorio Salutia      | - [ ] | - [ ] |       |       | - [ ] | - [ ]  | - [ ]  | - [ ] |
+| Mati   | 10 - Clínica Maternidad    | - [ ] | - [ ] | - [ ] | - [ ] | - [ ] | - [ ]  | - [ ]  | - [ ] |
+| Fede   | 11 - DGT                   |   -   |   -   |   -   |   -   | - [ ] |   -    |   -    |   -   |
+| Haziel | 12 - Telepeaje             | - [ ] | - [ ] | - [ ] | - [ ] | - [ ] |   -    |   -    |   -   |
+| Leo    | 13 - Self Checkouts        | - [ ] | - [ ] |   -   | - [ ] | - [ ] | - [ ]  | - [ ]  | - [ ] |
+| Fede   | 14 - Amazon Go®            | - [ ] | - [ ] |   -   | - [ ] | - [ ] | - [ ]  | - [ ]  | - [ ] |

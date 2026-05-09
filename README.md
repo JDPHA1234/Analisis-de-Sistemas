@@ -12,7 +12,7 @@ Tabla de progreso de los módulos y ejercicios.
 | Mati   | 6 - Estaciones de servicio |  [x] |   -  |   -   |  [ ] | [ ] |   -    |   -    |   -   |
 | Farid  | 7 - BINBIN                 |  [x] |   -  |  [ ] |  [ ] | [ ] |   -    |   -    |   -   |
 | Elian  | 8 - Recitaluzza 2025       |  [ ] |  [ ] | [ ] | [ ] | [ ] |  [ ]  |  [ ]  |   -   |
-| Haziel | 9 - Sanatorio Salutia      |  [ ] |  [ ] |       |       |  [ ] |  [ ]  |  [ ]  |  [ ] |
+| Haziel | 9 - Sanatorio Salutia      |  [x] |  [x] |       |       |  [ ] |  [ ]  |  [ ]  |  [ ] |
 | Mati   | 10 - Clínica Maternidad    |  [ ] |  [ ] | [ ] |  [ ] |  [ ] |  [ ]  |  [ ]  |  [ ] |
 | Fede   | 11 - DGT                   |   -   |   -   |   -   |    -  |  [ ] |   -    |   -    |   -   |
 | Haziel | 12 - Telepeaje             |  [ ] |  [ ] | [ ] |  [ ] |  [ ] |   -    |   -    |   -   |

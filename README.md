@@ -15,6 +15,6 @@ Tabla de progreso de los módulos y ejercicios.
 | Haziel | 9 - Sanatorio Salutia      |  [x] |  [x] |       |       |  [ ] |  [ ]  |  [ ]  |  [ ] |
 | Mati   | 10 - Clínica Maternidad    |  [ ] |  [ ] | [ ] |  [ ] |  [ ] |  [ ]  |  [ ]  |  [ ] |
 | Fede   | 11 - DGT                   |   -   |   -   |   -   |    -  |  [ ] |   -    |   -    |   -   |
-| Haziel | 12 - Telepeaje             |  [ ] |  [ ] | [ ] |  [ ] |  [ ] |   -    |   -    |   -   |
+| Haziel | 12 - Telepeaje             |  [x] |  [x] | [x] |  [x] |  [ ] |   -    |   -    |   -   |
 | Leo    | 13 - Self Checkouts        |  [ ] |  [ ] |   -   |  [ ] |  [ ] |  [ ]  |  [ ]  |  [ ] |
 | Fede   | 14 - Amazon Go®            |  [ ] |  [ ] |   -   | [ ] |  [ ] |  [ ]  |  [ ]  |  [ ] |

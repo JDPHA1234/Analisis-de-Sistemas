@@ -13,8 +13,8 @@ Tabla de progreso de los módulos y ejercicios.
 | Farid  | 7 - BINBIN                 |  [x] |   -  |  [ ] |  [ ] | [ ] |   -    |   -    |   -   |
 | Elian  | 8 - Recitaluzza 2025       |  [ ] |  [ ] | [ ] | [ ] | [ ] |  [ ]  |  [ ]  |   -   |
 | Haziel | 9 - Sanatorio Salutia      |  [x] |  [x] |       |       |  [ ] |  [ ]  |  [ ]  |  [ ] |
-| Mati   | 10 - Clínica Maternidad    |  [ ] |  [ ] | [ ] |  [ ] |  [ ] |  [ ]  |  [ ]  |  [ ] |
+| Mati   | 10 - Clínica Maternidad    |  [x] |  [x] | [x] |  [x] |  [ ] |  [ ]  |  [ ]  |  [ ] |
 | Fede   | 11 - DGT                   |   -   |   -   |   -   |    -  |  [ ] |   -    |   -    |   -   |
 | Haziel | 12 - Telepeaje             |  [x] |  [x] | [x] |  [x] |  [ ] |   -    |   -    |   -   |
-| Leo    | 13 - Self Checkouts        |  [ ] |  [ ] |   -   |  [ ] |  [ ] |  [ ]  |  [ ]  |  [ ] |
+| Leo    | 13 - Self Checkouts        |  [x] |  [x] |   -   |  [ ] |  [ ] |  [ ]  |  [ ]  |  [ ] |
 | Fede   | 14 - Amazon Go®            |  [x] |   -   |   -   | [x] |  [ ] |  [ ]  |  [ ]  |  [ ] |

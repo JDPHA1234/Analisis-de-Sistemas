@@ -17,4 +17,4 @@ Tabla de progreso de los módulos y ejercicios.
 | Fede   | 11 - DGT                   |   -   |   -   |   -   |    -  |  [ ] |   -    |   -    |   -   |
 | Haziel | 12 - Telepeaje             |  [x] |  [x] | [x] |  [x] |  [ ] |   -    |   -    |   -   |
 | Leo    | 13 - Self Checkouts        |  [ ] |  [ ] |   -   |  [ ] |  [ ] |  [ ]  |  [ ]  |  [ ] |
-| Fede   | 14 - Amazon Go®            |  [ ] |  [ ] |   -   | [ ] |  [ ] |  [ ]  |  [ ]  |  [ ] |
+| Fede   | 14 - Amazon Go®            |  [x] |   -   |   -   | [x] |  [ ] |  [ ]  |  [ ]  |  [ ] |
